@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenDV.Core", "OpenDV.Core\OpenDV.Core.csproj", "{B129FD20-9E9E-404E-ADF2-9EB78C15A3A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenDV.UI", "OpenDV.UI\OpenDV.UI.csproj", "{2DAF7C87-F645-41AC-9697-7AAD0044B1FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{B129FD20-9E9E-404E-ADF2-9EB78C15A3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B129FD20-9E9E-404E-ADF2-9EB78C15A3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B129FD20-9E9E-404E-ADF2-9EB78C15A3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DAF7C87-F645-41AC-9697-7AAD0044B1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAF7C87-F645-41AC-9697-7AAD0044B1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAF7C87-F645-41AC-9697-7AAD0044B1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAF7C87-F645-41AC-9697-7AAD0044B1FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
