@@ -2,6 +2,8 @@
 using Microsoft.Extensions.Configuration;
 using OpenDV.Core.Configuration;
 
+namespace OpenDV.UI;
+
 internal static class App
 {
     public static void Main()
