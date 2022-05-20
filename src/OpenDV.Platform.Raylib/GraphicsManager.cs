@@ -3,7 +3,7 @@ using OpenDV.Core.Platform;
 
 namespace OpenDV.Platform.Raylib;
 
-public sealed class GraphicsManager : IGraphicsManager
+internal sealed class GraphicsManager : IGraphicsManager
 {
     public void Clear(Color color)
     {
