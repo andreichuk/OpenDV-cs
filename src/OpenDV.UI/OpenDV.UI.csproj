@@ -12,7 +12,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\OpenDV.Core\OpenDV.Core.csproj" />
+      <ProjectReference Include="../OpenDV.Core/OpenDV.Core.csproj" />
       <ProjectReference Include="../OpenDV.Platform.Raylib/OpenDV.Platform.Raylib.csproj" />
     </ItemGroup>
 
