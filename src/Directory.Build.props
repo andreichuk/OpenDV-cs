@@ -19,7 +19,7 @@
     </PropertyGroup>
 
     <PropertyGroup>
-        <OpenDVBuildOutputPath>$([System.IO.Path]::GetFullPath('$(MSBuildProjectDirectory)'))/../../out/cs</OpenDVBuildOutputPath>
+        <OpenDVBuildOutputPath>$([System.IO.Path]::GetFullPath('$(MSBuildProjectDirectory)'))/../../out</OpenDVBuildOutputPath>
         <BaseIntermediateOutputPath>$(OpenDVBuildOutputPath)/Intermediate/$(MSBuildProjectName)/</BaseIntermediateOutputPath>
         <BaseOutputPath>$(OpenDVBuildOutputPath)/Project/$(MSBuildProjectName)/</BaseOutputPath>
     </PropertyGroup>
